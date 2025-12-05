@@ -1,2 +1,2 @@
 # frontend-lesson-1
-This is a walkthrough of creating a htlm
+This is a walkthrough of creating a html
